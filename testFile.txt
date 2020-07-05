@@ -1,8 +1,8 @@
 Rainbow colors
-V
-I
-B
-G
-Y
-O
-R
+Violet
+Indigo
+Blue
+Green
+Yellow
+Orange
+Red
