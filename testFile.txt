@@ -1,1 +1,8 @@
-Rainbow 
+Rainbow colors
+V
+I
+B
+G
+Y
+O
+R
